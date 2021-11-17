@@ -1,0 +1,19 @@
+,Player,Minutes,Team,X,Y,Shot Type,xG,Result,Player Assisted
+0,Mohamed Salah,7,Liverpool,0.859,0.732,LeftFoot,0.029,BlockedShot,James Milner
+1,Jack Grealish,14,Manchester City,0.86,0.723,RightFoot,0.033,BlockedShot,João Cancelo
+2,Phil Foden,20,Manchester City,0.951,0.612,LeftFoot,0.365,SavedShot,Bernardo Silva
+3,Kevin De Bruyne,23,Manchester City,0.922,0.677,LeftFoot,0.12,MissedShots,João Cancelo
+4,Kevin De Bruyne,33,Manchester City,0.917,0.427,Head,0.083,MissedShots,Phil Foden
+5,Kevin De Bruyne,37,Manchester City,0.859,0.375,RightFoot,0.063,BlockedShot,Gabriel Jesus
+6,Kevin De Bruyne,39,Manchester City,0.86,0.338,LeftFoot,0.06,BlockedShot,Gabriel Jesus
+7,Rodri,39,Manchester City,0.749,0.382,RightFoot,0.025,MissedShots,
+8,Diogo Jota,49,Liverpool,0.838,0.562,LeftFoot,0.072,SavedShot,Joel Matip
+9,Sadio Mané,58,Liverpool,0.883,0.375,RightFoot,0.334,Goal,Mohamed Salah
+10,Mohamed Salah,62,Liverpool,0.752,0.638,LeftFoot,0.054,BlockedShot,
+11,Gabriel Jesus,66,Manchester City,0.88,0.688,RightFoot,0.036,BlockedShot,Kevin De Bruyne
+12,Phil Foden,68,Manchester City,0.943,0.685,LeftFoot,0.062,Goal,Gabriel Jesus
+13,Mohamed Salah,75,Liverpool,0.967,0.36,RightFoot,0.161,Goal,Curtis Jones
+14,Kevin De Bruyne,80,Manchester City,0.817,0.467,LeftFoot,0.047,Goal,
+15,Kyle Walker,83,Manchester City,0.706,0.479,RightFoot,0.04,MissedShots,
+16,Fabinho,86,Liverpool,0.958,0.598,RightFoot,0.3,BlockedShot,Mohamed Salah
+17,Gabriel Jesus,90,Manchester City,0.873,0.357,RightFoot,0.109,BlockedShot,Raheem Sterling
